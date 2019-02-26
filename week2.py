@@ -72,4 +72,4 @@ my_array=[21,23,13,44,25,2,7,16,14,12,11]
 print(selection_sort(my_array))
 print(binary_search(my_array,14))
 print(factorial_recursive(5))
-print(power(2,5))
+print(power(356,23))
