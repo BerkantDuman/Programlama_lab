@@ -124,21 +124,6 @@ def matrix_3x3_det(m4):
     
     return a_4 - b_4 + c_4
 
-#def matrix_4x4_det(m1):
-#    if(len(m1)==3):
-#        return matrix_3x3_det(m1)
-#    else:
-#        m1=delete_row_col_from_matrix(m1,0,0)
-#        return matrix_4x4_det(m1)
-
-
-#11 mart pazartesi ders saati başlangıcına aşağıdaki formatta çalışmalarınızı teslim ediniz.
-#tarih  - konu  - github linki - yükleme zamanı
-#arka sayfaya github hesabı linkini hazırlayarak rapor ver
-#her haftanın linkini koyucaz
-
-print(my_Vector_addition(v,w))
-print(my_Vector_Substraction(v,w))
 print(my_Vector_Scalar_Product(2,v))
 print(my_matrix_addition(matrix_1,matrix_2))
 print(my_matrix_substraction(matrix_1,matrix_2))
